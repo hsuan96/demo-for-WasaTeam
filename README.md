@@ -5,8 +5,11 @@
 因為檔案足夠少，所以粗分為routes和screens，無法放在以上兩類的則放在shared
 
 src/
+
 |
+
 |-routes/
+
 |   |-IntroStack.js   30min
 |   |-ListStack.js    2hr
 |   |-NewsStack.js    5min
